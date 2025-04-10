@@ -1,13 +1,13 @@
 {
   "animal": [
    {
-    "id" : "1",
+    "id" : 1,
     "name" : "British Short hair",
     "photo" : "",
     "country" : "England"
    },
    {
-    "id" : "2",
+    "id" : 2,
     "name" : "British Short hair",
     "photo" : "",
     "country" : "England"
