@@ -11,6 +11,12 @@
     "name" : "Maine Coon",
     "photo" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZt5P4Ddx_enjFieG6ErQcvi2ef1NP7M-NeBHzeQu4rEWFSco-MG7-GJfFqBmI0y2RNzEQnQuV0P-G84MnKEQStQ",
     "country" : "The US state of Maine"
+   },
+   {
+    "id" : 3,
+    "name" : "Abyssinian",
+    "photo" : "https://www.thesprucepets.com/thmb/MigiLYeVSJcj0zkNVkJ--rALMZI=/2121x0/filters:no_upscale():strip_icc()/GettyImages-165827729-efc11c02690f457a81ef6ccbfa8eb34d.jpg",
+    "country" : "Egypt"
    }
   ]
 }
