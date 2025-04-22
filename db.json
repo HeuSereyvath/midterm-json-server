@@ -3,14 +3,14 @@
    {
     "id" : 1,
     "name" : "British Short hair",
-    "photo" : "",
+    "photo" : "https://cfa.org/wp-content/uploads/2024/04/2023-c03i-AphroTyler.webp",
     "country" : "England"
    },
    {
     "id" : 2,
-    "name" : "British Short hair",
-    "photo" : "",
-    "country" : "England"
+    "name" : "Maine Coon",
+    "photo" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZt5P4Ddx_enjFieG6ErQcvi2ef1NP7M-NeBHzeQu4rEWFSco-MG7-GJfFqBmI0y2RNzEQnQuV0P-G84MnKEQStQ",
+    "country" : "The US state of Maine"
    }
   ]
 }
